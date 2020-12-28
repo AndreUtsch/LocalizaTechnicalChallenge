@@ -15,7 +15,7 @@ namespace XUnitTechnicalChallenge
 
             Dictionary<String, List<int>> teste = new Dictionary<string, List<int>>()
             {
-                {"Divider", new List<int>{1,7,49}},
+                {"Divisor", new List<int>{1,7,49}},
                 {"PrimeNumber", new List<int>{1,7}}
             };
 
